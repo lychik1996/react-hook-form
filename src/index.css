@@ -1,0 +1,32 @@
+form{
+  display: block;
+  display: flex;
+  flex-direction: column;
+  gap:15px;
+  width: 300px;
+  margin-bottom: 10px;
+  align-items: center;
+  border: 1px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 40px auto;
+}
+
+input{
+  width: 250px;
+
+}
+.css-13cymwt-control{
+  width: 250px;
+}
+button{
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: blue;
+  height: 35px;
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+  width: 200px;
+
+}
